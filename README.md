@@ -8,3 +8,6 @@
 
     ### Tools > Options > Colors's Preview
     ![](https://github.com/Bie-NHD/dracula-redpandacpp/blob/default/assets/review-in-settings.png)
+
+    ### Another preview
+    ![](https://github.com/Bie-NHD/dracula-redpandacpp/blob/default/assets/review.png)
