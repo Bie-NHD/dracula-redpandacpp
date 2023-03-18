@@ -8,3 +8,5 @@
 
     ### Tools > Options > Colors's Preview
     ![](assets\review-in-settings.png)
+    ### Another Review
+    ![](assets/review.png)
